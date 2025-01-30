@@ -1,0 +1,49 @@
+### 1. **General Description:**
+The scatter plot represents a customer segmentation based on two normalized variables:
+- **Purchase Frequency** (x-axis),
+- **Visit Frequency** (y-axis).
+
+The data is divided into **several main clusters** identified by distinct colors. 
+Two additional types of points are also represented:
+- **Outliers**, representing atypical customers.
+- **Border points**, which are not clearly attributed to a cluster.
+
+---
+
+### 2. **Interpretation of Main Clusters:**
+
+#### **Cluster 1:**
+- Represents customers with **low to moderate purchase frequency** and **high visit frequency**.
+- **Potential action:** Offer promotions to convert these frequent visitors into more regular buyers.
+
+#### **Cluster 2:**
+- Includes customers with **high purchase frequency** and **high visit frequency**.
+- **Potential action:** Retain this segment through VIP programs or rewards.
+
+#### **Cluster 3:**
+- Groups customers with **low purchase frequency** and **low visit frequency**.
+- **Potential action:** Encourage their engagement with attractive offers.
+
+#### **Cluster 4:**
+- These customers exhibit **high purchase frequency** but **low visit frequency**.
+- **Potential action:** Use targeted promotions to encourage them to visit more frequently.
+
+---
+
+### 3. **Outliers:**
+- These points represent customers with atypical behaviors.
+- **Potential action:** Analyze these specific cases to adjust offers or understand their needs.
+
+---
+
+### 4. **Border Points:**
+- These points are not firmly assigned to a cluster.
+- **Potential action:** Adjust the clustering parameters or consider these points in an intermediate segment.
+
+---
+
+### 5. **Strategic Recommendations:**
+- **Cluster 2 (loyal customers):** Retain through rewards.
+- **Clusters 1 and 3 (occasional customers):** Incentives to increase their engagement.
+- **Cluster 4 (planners):** Targeted promotions to encourage more frequent visits.
+- **Outliers and border points:** Deep analysis to adjust offers or understand specific needs.

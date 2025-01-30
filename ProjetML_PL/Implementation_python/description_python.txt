@@ -1,0 +1,52 @@
+===================================
+Interpretation of Clusters in Graph
+===================================
+
+1. General Description:
+-----------------------
+The scatter plot shows a segmentation of clients based on two normalized variables:
+- Purchase frequency (x-axis)
+- Visit frequency (y-axis)
+
+The data is divided into four main clusters, identified by distinct colors (red, green, violet, brown). Additionally, two other types of points are represented:
+- Outliers (blue), representing atypical clients.
+- Border points (orange), which are not clearly attributed to a specific cluster.
+
+2. Interpretation of Main Clusters:
+-----------------------------------
+Cluster 1 (Red):
+- Location: Top-left
+- Clients: Low to moderate purchase frequency but high visit frequency.
+- Interpretation: Likely clients who visit often but purchase little. They may respond well to strategies encouraging purchases.
+
+Cluster 2 (Green):
+- Location: Top-right
+- Clients: High purchase frequency and high visit frequency.
+- Interpretation: Loyal and profitable clients. A key segment to retain through VIP programs or rewards.
+
+Cluster 3 (Brown):
+- Location: Bottom-left
+- Clients: Low purchase frequency and low visit frequency.
+- Interpretation: Likely occasional or unengaged clients. Marketing strategies could aim to increase their engagement.
+
+Cluster 4 (Violet):
+- Location: Bottom-right
+- Clients: Moderate to high purchase frequency but low visit frequency.
+- Interpretation: Likely planners who make large purchases during infrequent visits. Targeted promotions could encourage more frequent visits.
+
+3. Outliers (Blue):
+-------------------
+- Represent atypical behaviors, such as clients with very high or very low frequencies.
+- Possible action: Analyze these cases individually to identify specific opportunities or issues (e.g., ultra-loyal clients or dissatisfied ones).
+
+4. Border Points (Orange):
+--------------------------
+- Not firmly attached to a cluster and can be considered intermediate cases.
+- Possible action: Review segmentation parameters to better include these points.
+
+5. Strategic Recommendations:
+-----------------------------
+- Green cluster (loyal): Retain through rewards programs.
+- Red and brown clusters (occasional): Encourage purchases and engagement through marketing initiatives.
+- Violet cluster (planners): Use promotions to increase visit frequency.
+- Outliers and border points: Conduct further analysis to adjust offers or understand specific needs.
